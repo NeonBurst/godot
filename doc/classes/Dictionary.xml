@@ -64,7 +64,7 @@
 		}
 		[/csharp]
 		[/codeblocks]
-		In the above code, [code]points[/code] will be assigned the value that is paired with the appropriate color selected in [code]my_color[/code].
+		In the code above, [code]points[/code] will be assigned the value that is paired with the appropriate color selected in [code]my_color[/code].
 		Dictionaries can contain more complex data:
 		[codeblocks]
 		[gdscript]
